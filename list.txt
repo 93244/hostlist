@@ -7,7 +7,7 @@
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:22777
+#规则数量:227777
 ##################
 
 108.177.111.90 translate.googleapis.com
